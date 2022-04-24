@@ -1,7 +1,7 @@
 # fireflies-css-mod
 a material + model replacer that makes things glow in the dark and makes visibility 100x easier. FOR CSS only
 
-## how to download
+## how to download + install
 click on code, then download zip. extract the .vpk file into your `counter-strike source\custom` folder or the raw materials into `counter-strike source\custom\my_custom_stuff`
 
 # NOTICE
