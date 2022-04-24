@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/weapons/w_models/w_rif_aug/w_rif_aug"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+	"$Selfillum" "1"
+}

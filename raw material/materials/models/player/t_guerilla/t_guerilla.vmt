@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	"$basetexture"	"models\player\t_guerilla\t_guerilla"
+	"$bumpmap" "models\player\t_guerilla\t_guerilla_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+	"$surfaceprop" "flesh"
+	"$Selfillum" "1"
+}
